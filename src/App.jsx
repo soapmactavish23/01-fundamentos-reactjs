@@ -1,7 +1,15 @@
-import { useState } from "react";
+import Post from "./Post";
 
-function App() {
-  return <h1>Hello World!</h1>;
+export function App() {
+  return (
+    <div>
+      <Post />
+      <Post />
+      <Post />
+      <Post />
+      <Post />
+      <Post />
+      <Post />
+    </div>
+  );
 }
-
-export default App;
