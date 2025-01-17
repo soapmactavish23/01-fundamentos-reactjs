@@ -29,8 +29,14 @@ export function Post() {
           hic aut necessitatibus dicta consequuntur! Rem deleniti fuga accusamus
           maiores aspernatur.
         </p>
-        <p><a href="">jane.design/doctorcare</a></p>
-        <p><a href="">#novoprojeto #nlw #rocketseat</a></p>
+        <p>
+          <a href="">jane.design/doctorcare</a>
+        </p>
+        <p>
+          <a href="">#novoprojeto</a>{' '}
+          <a href="">#nlw</a>{' '}
+          <a href="">#rocketseat</a>{' '}
+        </p>
       </div>
     </article>
   );
