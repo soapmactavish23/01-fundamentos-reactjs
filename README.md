@@ -22,7 +22,7 @@ Depois de muito tempo desde meu último contato com React.js em 2019, finalmente
 
 Meu primeiro projeto nessa nova jornada foi o Ignite, uma aplicação voltada para publicação de posts e interação com comentários. Aqui estão algumas funcionalidades que implementei:
 
-✅ Publicação de posts.
+✅ Publicação de posts
 ✅ Adição de comentários em posts.
 ✅ Curtir comentários.
 ✅ Remoção de comentários.
