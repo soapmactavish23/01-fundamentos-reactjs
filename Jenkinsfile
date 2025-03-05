@@ -13,7 +13,7 @@ pipeline {
         stage('Checkout Code') {
             steps {
                 git branch: 'prod', 
-                    url: 'https://github.com/soapmactavish23/venomous-ui',
+                    url: 'https://github.com/soapmactavish23/01-fundamentos-reactjs',
                     credentialsId: 'GitHub-PAT'
             }
         }
